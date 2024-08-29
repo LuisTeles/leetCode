@@ -1,6 +1,6 @@
 #include <vector>
 using namespace std;
-
+//Boyer-Moore Voting Algorithm
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
